@@ -1,0 +1,14 @@
+{
+	"category" : "D3JS-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "D3JSExample",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

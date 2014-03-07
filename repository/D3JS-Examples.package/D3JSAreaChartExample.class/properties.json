@@ -1,0 +1,14 @@
+{
+	"category" : "D3JS-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "D3JSAreaChartExample",
+	"pools" : [
+		 ],
+	"super" : "D3JSExample",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "D3JS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "D3Js",
+	"pools" : [
+		 ],
+	"super" : "JSObject",
+	"type" : "normal" }

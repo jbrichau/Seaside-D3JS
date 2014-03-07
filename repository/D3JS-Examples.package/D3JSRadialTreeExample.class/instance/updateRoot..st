@@ -1,0 +1,20 @@
+rendering
+updateRoot: aRoot
+	super updateRoot: aRoot.
+	aRoot javascript resourceUrl: 'radialtree.js'.
+	aRoot addStyle: '.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}'
+		
