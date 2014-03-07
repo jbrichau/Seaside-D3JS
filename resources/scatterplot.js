@@ -1,13 +1,13 @@
 function buildscatterplot(error,root){
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    width = 800 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
 
 var x = d3.scale.linear()
-    .range([0, width]);
+    .range([-width/2, width/2]);
 
 var y = d3.scale.linear()
-    .range([height, 0]);
+    .range([-height/2, height/2]);
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
